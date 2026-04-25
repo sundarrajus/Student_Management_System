@@ -12,7 +12,7 @@
 
 ## Overview
 
-A fully functional **Student Management System** built using **Python and Django** — a web-based platform that allows administrators and staff to efficiently manage student records through a secure, role-based, and user-friendly interface.
+A fully functional **Student Management System** built using **Python and Django** - a web-based platform that allows administrators and staff to efficiently manage student records through a secure, role-based, and user-friendly interface.
 
 This project demonstrates real-world full-stack development including user authentication, role-based access control, CRUD operations, interactive dashboards, and data visualization.
 
